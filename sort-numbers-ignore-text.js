@@ -7,9 +7,9 @@
  * By any numbers means
  *
  *  - integers, like 66
- *  - floats, like 66.66
- *  - negative numbers, like -66.66
- *  - exponental numbers, like 66.66e+10
+ *  - decimal numbers, like 66.66
+ *  - negative numbers, like -66.66 (+66.66 as well)
+ *  - scientific numbers, like 66.66e+10
  *  - illegal numbers, like 066, which is considered as 66 
  *
  *  @example
